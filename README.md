@@ -1,1 +1,4 @@
 # sistemas_integrados
+
+# PEDRO BACIC BRANCO - 10382476
+# TIAGO NUNES URSICH - 10401693
